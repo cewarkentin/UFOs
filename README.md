@@ -2,13 +2,21 @@
 
 ## Overview of Project
 
-Explain the purpose of this analysis.
+Develop a webpage to provide an analysis on UFO sightings throughout the United States. Added filters to allow for multiple criteria searches and find certain data points.
 
 ## Results
 
-There is a description of how to perform a search, with images.
+In the side bar, you can enter as much or as little search criteria as you'd like to find direct matches. The key is to enter your search criteria exactly following the formatting as it is found printed in the table.
 
 ![search input](https://github.com/cewarkentin/UFOs/blob/main/search%20input.png)
+
+Entering the search criteria and hitting "enter" will return your results.
+
+You can clear the search criteria and hit "enter" to return to an unfiltered table.
+
+You can search for multiple filters at one time.
+
+If you enter search criteria and no results return, it means there is no data that matches your search criteria.
 
 ## Summary
 
